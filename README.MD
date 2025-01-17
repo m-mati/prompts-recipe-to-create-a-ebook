@@ -90,4 +90,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Marcos Araújo](https://github.com/m-mati)
+⌨️ com 💜 por [MMati](https://github.com/m-mati)
